@@ -1,7 +1,7 @@
 Spatium documentation
 =====================
 
-Welcome to Spatium documentation.
+Welcome to Spatium documentation. All the code can be found from https://github.com/ploughhh/Spatium.
 
 Spatium is a foundation model for spatial proteomics that enables
 representation learning, cell type annotation, spatial niche analysis,
