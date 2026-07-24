@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Welcome to the documentation of **Spatium**, a Python package for spatial proteomics data analysis based on our pretrained foundation model. All the code can be found from https://github.com/ploughhh/Spatium
+Welcome to the documentation of **Spatium**, a Python package for spatial proteomics data analysis based on our pretrained foundation model. All the code can be found from https://github.com/ploughhh/Spatium.
 
 This package is developed based on our work of **Spatium** (citation). In this documentation, we provide a comprehensive guide for using Spatium, including model initialization, data preprocessing, representation extraction, downstream analysis, and visualization examples. Through these tutorials, users can easily apply Spatium to various spatial proteomics datasets and explore biologically meaningful spatial patterns.
 
