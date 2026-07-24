@@ -1,4 +1,8 @@
 sphinx
-sphinx-rtd-theme
+furo
 nbsphinx
+nbsphinx-link
 ipykernel
+breathe
+sphinx-copybutton
+sphinxcontrib-spelling
